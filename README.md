@@ -22,3 +22,10 @@ Formalized mathematics represents definitions, theorems, and proofs in a digital
 
 **Math, intelligence, and aesthetics** : 
 Formalization tightly couples mathematics with computation and AI: it powers verification of complex systems, integrates automation and heuristics, and leverages machine learning alongside interactive proof, expanding the scope of rigorous reasoning in practice. Beyond utility, mathematicians have long emphasized aesthetic criteria—beauty, elegance, and simplicity—as guiding ideals in discovery and exposition. As Hardy and others observed, mathematics “possesses not only truth, but supreme beauty,” an ethos that continues to shape what is valued and pursued, even within formal frameworks.
+
+## References
+1. Lean4 Live : https://live.lean-lang.org/#project=mathlib-stable
+2. Elementry Real Analysis by Lean4Community Tutorial : https://github.com/leanprover-community/tutorials
+3. Basic Number Theory, Set Theory and Logics : https://adam.math.hhu.de/#/
+4. A Concise overview of Lean4 : https://pfaffelh.github.io/leancourse/
+5. A detailed docs of Lean4 : https://leanprover.github.io/theorem_proving_in_lean4/
